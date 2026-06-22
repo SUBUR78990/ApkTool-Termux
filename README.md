@@ -14,3 +14,4 @@ chmod +x Install_Apktool.sh
 bash Install_Apktool.sh
 python Run.py
 ````
+<img width="720" height="1576" alt="Image" src="https://github.com/user-attachments/assets/13b4be27-cb96-4ded-b0c1-d590c5c92bdf" />
