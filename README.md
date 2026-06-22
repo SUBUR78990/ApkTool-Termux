@@ -3,7 +3,7 @@ Program sangat simpel untuk meng extract aplikasi dan memodifikasi
 
 ````
 pkg update && pkg upgrade
-pkg install python clang make cmake libffi openssl rust
+pkg install python git clang make cmake libffi openssl rust
 pip install cryptography
 ````
 ````
