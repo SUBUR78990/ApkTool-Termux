@@ -2,7 +2,7 @@
 Program sangat simpel untuk meng extract aplikasi dan memodifikasi 
 
 
- [https://f-droid.org/id/packages/com.termux/](https://f-droid.org/id/packages/com.termux/)
+ [https://f-droid.org/id/packages/com.termux/]
 
 ````
 pkg update && pkg upgrade
